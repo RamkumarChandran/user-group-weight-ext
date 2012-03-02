@@ -1,0 +1,21 @@
+ABOUT THIS PLUGIN:
+
+This ext plugin modifies the display weight of the User Groups portlet in the Liferay control panel.  After applying this plugin the User Groups portlet will be displayed immediately below the Users and Organizations portlet.
+
+CONTACT INFORMATION:
+
+By Mail:
+Educational Service Unit 10
+Director of Network and Information Services
+PO Box 850
+Kearney, NE 68848
+
+By E-mail:
+admin@gnenc.org
+
+Git Source Repository
+http://github.com/gnenc/user-group-weight-portlet
+
+Developer: Drew A. Blessing
+
+Date: 2012
